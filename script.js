@@ -25,7 +25,6 @@ function getUrlParameterValue(url, parameter) {
             return decodeURIComponent(value.replace(/\+/g, ' '));
         }
     }
-    // console.log(key);
     
     return null;
 }
