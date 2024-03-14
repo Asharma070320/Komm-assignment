@@ -1,6 +1,6 @@
 ## -----------------------Kommunicate Assgment----------------------
 
-### Hosted Link:- https://kommunicate-assignment-three.vercel.app/
+### Hosted Link:- https://komm-assignment.vercel.app/
 
 ## ScreenShot:- 
 
