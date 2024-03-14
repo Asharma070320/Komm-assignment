@@ -4,22 +4,25 @@
 
 ## ScreenShot:- 
 
-![Screenshot 2024-03-13 160813](https://github.com/Asharma070320/Kommunicate_assignment/assets/127501344/0ca11410-e7ac-49e0-a9ce-e7080933cd25)
+![Screenshot 2024-03-13 160813](https://github.com/Asharma070320/Komm-assignment/assets/127501344/8d790157-3330-4efc-922e-7c47976b207d)
+
 
 # 2. Function to get value of parameter
 
-![image](https://github.com/Asharma070320/Kommunicate_assignment/assets/127501344/f7c69634-7c1b-4bcc-9288-f35bcf046dca)
-![image](https://github.com/Asharma070320/Kommunicate_assignment/assets/127501344/e9e9f3f7-1389-421c-b5b2-4fe4b1b5f7c6)
+![Screenshot 2024-03-13 163748](https://github.com/Asharma070320/Komm-assignment/assets/127501344/ddeccee2-45b7-42db-9ffd-26a6e010f5ff)
+![Screenshot 2024-03-13 163809](https://github.com/Asharma070320/Komm-assignment/assets/127501344/cf20553c-ed78-495f-88ee-4ad2bf236a35)
+
 
 # 3. Function reverse any number
 
-![image](https://github.com/Asharma070320/Kommunicate_assignment/assets/127501344/a867c6af-8d0a-4144-ac61-4a16e5a1d0c4)
+![Screenshot 2024-03-13 163820](https://github.com/Asharma070320/Komm-assignment/assets/127501344/62514a92-b5fd-438e-92d8-1e80e993f039)
 
 
 
-### Free Crypto Tax Calculator Australia
 
-## Hosted Link:- https://crypto-australia-calculator.vercel.app/
+## Free Crypto Tax Calculator Australia
+
+###  Hosted Link:- https://crypto-australia-calculator.vercel.app/
 
 ## Overview:-
 
@@ -27,7 +30,8 @@ This project provides a free and open-source crypto tax calculator specifically 
 
 ## ScreenShot:- 
 
-![Screenshot 2024-03-13 163016](https://github.com/Asharma070320/Kommunicate_assignment/assets/127501344/84ace031-71dd-4703-bfe1-bddcf54c4e60)
+![Screenshot 2024-03-13 163016](https://github.com/Asharma070320/Komm-assignment/assets/127501344/9d9b3fa0-953a-4df2-b8da-5b0b6c5b1972)
+
 
 ## Key Features:-
 
