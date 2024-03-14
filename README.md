@@ -1,4 +1,4 @@
-## -----------------------Kommunicate Assgment----------------------
+## -----------------------Kommunicate Assignment----------------------
 
 ### Hosted Link:- https://komm-assignment.vercel.app/
 
